@@ -59,7 +59,15 @@ The project focuses on conversions between common number systems:
 
 Developed as an academic Computer Architecture project to explore how computers represent and process numerical information using different number systems.
 
+
+## Contributors
+
+This project was developed in collaboration with:
+- [Boshra Sultan](https://github.com/BoshraSultan123)
+- [su3ad72](https://github.com/su3ad72)
+
+
 ## Author
 
-[notmej](https://github.com/notmej)
+[Yunona Agzmaova (notmej)](https://github.com/notmej)
 
